@@ -1,0 +1,21 @@
+{
+  "name": "cyberalldwarf",
+  "displayName": "CyberAllDwarf",
+  "description": "Azure Data Studio color theme based on popular Cyberpunk theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AllDwarf's Cyberpunk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AllDwarf's Cyberpunk-color-theme.json"
+      }
+    ]
+  }
+}
