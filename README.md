@@ -1,13 +1,17 @@
-# AllDwarf's Cyperpunk Theme
+# AllDwarf's Themes
 
 ![Project unmaintained](https://img.shields.io/badge/project-unmaintained-red.svg)
 
-Azure Data Studio and VS Code Theme based on [Cyberpunk](https://github.com/prometheux-ar/cyberpunk) theme.
+There are two themes in this project. Azure Data Studio and VS Code Theme based on [Cyberpunk](https://github.com/prometheux-ar/cyberpunk) theme and classic light theme called Ironforge.
 
 <img src="assets/AllDwarf.jpg" width="50%" height="50%">
 
 ## Preview
-<img src="assets/example.png" width="70%" height="70%">
+### Alldwarf's Cyberpunk
+<img src="assets/example_cyber.png" width="70%" height="70%">
+
+### AllDwarf's Ironforge
+<img src="assets/example_ironforge.png" width="70%" height="70%">
 
 ## Installation
 

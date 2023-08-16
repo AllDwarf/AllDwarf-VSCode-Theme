@@ -19,10 +19,15 @@
         "label": "AllDwarf's Cyberpunk",
         "uiTheme": "vs-dark",
         "path": "./themes/AllDwarf's Cyberpunk-color-theme.json"
+      },
+      {
+        "label": "AllDwarf's Ironforge",
+        "uiTheme": "vs",
+        "path": "./themes/AllDwarf's Ironforge-color-theme.json"
       }
     ]
   },
   "scripts": {
-    "package": "npx vsce package"
+    "package": "npx vsce package --packagePath release"
   }
 }
