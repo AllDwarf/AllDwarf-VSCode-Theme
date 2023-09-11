@@ -13,6 +13,9 @@ There are two themes in this project. Azure Data Studio and VS Code Theme based 
 ### AllDwarf's Ironforge
 <img src="assets/example_ironforge.png" width="70%" height="70%">
 
+## Build new .VSIX package
+Using  `vsce package` you can create .vsix file and use it later for installation.
+
 ## Installation
 
 The current release is available to [download as a .vsix file](releases/cyberalldwarf-0.0.1.vsix) and can be installed by opening the command palette and selecting `Extensions: Install from VSIX...`
