@@ -2,7 +2,7 @@
   "name": "cyberalldwarf",
   "displayName": "CyberAllDwarf",
   "description": "Azure Data Studio color theme based on popular Cyberpunk theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/AllDwarf/cyberalldwarf"
@@ -16,12 +16,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "AllDwarf's Cyberpunk",
+        "label": "AllDwarf's Ironforge Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/AllDwarf's Cyberpunk-color-theme.json"
+        "path": "./themes/AllDwarf's Ironforge-dark-color-theme.json"
       },
       {
-        "label": "AllDwarf's Ironforge",
+        "label": "AllDwarf's Ironforge Light",
         "uiTheme": "vs",
         "path": "./themes/AllDwarf's Ironforge-color-theme.json"
       }
