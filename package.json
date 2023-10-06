@@ -2,7 +2,7 @@
   "name": "cyberalldwarf",
   "displayName": "AllDwarf's Color Themes",
   "description": "Azure Data Studio color theme based on popular VS Dark+ and Light+ themes.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "MarekAldorf",
   "icon": "assets/icon.ico",
   "provides": [
